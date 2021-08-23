@@ -1,9 +1,9 @@
-# Caesar cipher
+#Caesar Cipher
 
-## Definition
+#definition:
 
-- 카이사르가 썼던 암호 방법
-- 가장 단순하고 가장 널리 알려진 해독기법
-- 일반 알파벳 순서를 바탕으로 알파벳 별로 고정된 수만큼 위치를 옮긴 알파벳으로 치환하여 해독하는 방법
+- 카이사르가 이전에 사용했던 암호 해독법
 
+- a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet
 
+- 가장 단순하고 널리 알려진 해독 기법
