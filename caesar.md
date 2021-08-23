@@ -1,12 +1,12 @@
 #Caesar Cipheir info
 
-##definition:
+##Definition:
 
-- one of the simplest and most widely known encryption techniques
+- It is one of the simplest and most widely known encryption techniques.
 
-- a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet
+- It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
 
-- the Caesar cipher is easily broken and in modern practice offers essentially no communications security
+- It is the Caesar cipher is easily broken and in modern practice offers essentially no communications security.
 
 ## Example
 
@@ -18,9 +18,9 @@ However, when Caesar cipher is decoded, the order is X - Y - Z - A - B - C - D -
 
 - example sentence
 
-1. A DOG IS JUMPING ON THE GROUND WITH ITS TOYS. (해독 메세지)
+1. A DOG IS JUMPING ON THE GROUND WITH ITS TOYS. (decoded message)
 
-2. X ALD FP GRJMFKD LK QEB DOLRKA TFQE FQP QLVP. (전달 메세지)
+2. X ALD FP GRJMFKD LK QEB DOLRKA TFQE FQP QLVP. (coded message)
 
 - In reverse, deciphering is done with a left shift of 3.
 
